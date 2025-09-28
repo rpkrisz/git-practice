@@ -12,3 +12,4 @@ Ezek a dolgok amiket venni kellene.
 - margarin
 - sajt
 - majonéz
+- ketchup
