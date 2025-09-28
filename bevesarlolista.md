@@ -5,3 +5,9 @@ Ezek a dolgok amiket venni kellene.
 - zsebkendő
 - mosogatószer
 - öblítő
+
+## Melegszendvicshez
+- kenyér
+- felvágott
+- margarin
+- sajt
